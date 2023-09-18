@@ -1,7 +1,7 @@
 <div align="left">
     <a href="https://www.cuinspace.ca/">
         <h1>
-            <img alt="CUInSpace Logo" src="./logo.png" style="margin: 0 0 2px 0;" width="90px"/>
+            <img alt="CUInSpace Logo" src="https://github.com/CarletonURocketry/.github/blob/main/profile/logo.png" style="margin: 0 0 2px 0;" width="90px"/>
             CUInSpace
         </h1>
     </a>
@@ -19,14 +19,7 @@ Rocketry Competition][spaceport] at Spaceport America, New Mexico.
 
 ### Avionics
 
-<img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" />
-<img alt="C" src="https://img.shields.io/badge/C-00599C?&logo=c&style=for-the-badge" />
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img alt="Javascript" src="https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=Javascript&logoColor=black"/>
-<img alt="HTML" src="https://img.shields.io/badge/HTML-F05032?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS" src="https://img.shields.io/badge/CSS-46a2f1?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Altium" src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" />
-<img alt="QNX" src="https://img.shields.io/badge/QNX-000000.svg?style=for-the-badge&logo=blackberry&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" /> <img alt="C" src="https://img.shields.io/badge/C-00599C?&logo=c&style=for-the-badge" /> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img alt="Javascript" src="https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=Javascript&logoColor=black"/> <img alt="HTML" src="https://img.shields.io/badge/HTML-F05032?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/CSS-46a2f1?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Altium" src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" /> <img alt="QNX" src="https://img.shields.io/badge/QNX-000000.svg?style=for-the-badge&logo=blackberry&logoColor=white"/>
 <br />
 
 The avionics team is responsible for designing and manufacturing the telemetry systems of the rocket. These systems 
