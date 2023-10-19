@@ -55,7 +55,7 @@ parachute for a soft landing.
 
 ### Propulsion
 
-<img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" /><img alt="C++" src="https://img.shields.io/badge/-C++-ffbc03?&logo=C++&style=for-the-badge" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" /> <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?&logo=C++&style=for-the-badge" />
 
 The propulsion sub team is responsible for the selection and handling of the rocket’s motor for competition and the 
 development of propulsion systems for future flights.
